@@ -1,6 +1,6 @@
 # ride-n-rollin
 Interactive MATLAB-based vehicle dynamics analysis tool developed for a Formula Student car.
-
+![Main interface](assets/screenshots/main-interface.png)
 The tool allows vehicle parameters to be modified through a graphical interface and automatically calculates key suspension, load transfer, roll, wheel load and aerodynamic quantities, while allowing plotting for every input variable with any output. The equations are taken from Milliken and Millikens book Race Car Vehicle Dynamics chapters 16 and 18. 
 
 ## Features
